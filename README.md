@@ -1,4 +1,5 @@
-### Welcome huniGithub 👋
+# Welcome huniGithub 👋
+
 
 <!--
 **eisont/eisont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![clgns](https://user-images.githubusercontent.com/87557968/172330421-88484319-e088-4f8b-bbc3-d228df659a11.png)
